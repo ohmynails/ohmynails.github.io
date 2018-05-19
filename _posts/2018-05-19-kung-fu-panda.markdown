@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: "Kung-fu-Panda"
-img: 10.jpg # Add image post (optional)
+title: "Kung Fu Panda"
+img: 10.png # Add image post (optional)
 date: 2018-05-19
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Texas, Canyon]
