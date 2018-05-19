@@ -31,7 +31,7 @@ facebook_url:  # add url link
 discus_identifier: mr-brown # add your discus identifier
 
 # Newsletter
-mailchimp: https://polishmeperfect.us18.list-manage.com/subscribe?u=4425d37d42bc4c43c51ee8def&id=d988e70c4c
+mailchimp: polishmeperfect.us18.list-manage.com/subscribe?u=4425d37d42bc4c43c51ee8def&id=d988e70c4c
 
 # Tracker
 analytics:
